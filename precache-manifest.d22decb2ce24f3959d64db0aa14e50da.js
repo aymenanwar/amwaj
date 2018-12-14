@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/amwaj/static/media/hands.981e82ed.jpeg"
   },
   {
-    "revision": "aebb21c724629119503b",
+    "revision": "ab6a331b3df353c5d7b1",
     "url": "/amwaj/static/css/main.df0e09ae.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/amwaj/static/media/amwaj.2057fb53.jpg"
   },
   {
-    "revision": "f57c227bab310fda57b2",
-    "url": "/amwaj/static/js/1.f57c227b.chunk.js"
+    "revision": "80758ca29e28580e04f2",
+    "url": "/amwaj/static/js/1.80758ca2.chunk.js"
   },
   {
     "revision": "54dc73a309a24df8d96b",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/amwaj/static/media/gradu.43f4867b.jpeg"
   },
   {
-    "revision": "aebb21c724629119503b",
-    "url": "/amwaj/static/js/main.aebb21c7.chunk.js"
+    "revision": "ab6a331b3df353c5d7b1",
+    "url": "/amwaj/static/js/main.ab6a331b.chunk.js"
   },
   {
     "revision": "8906596b1f182aa8acab6e0309a7c8ff",
@@ -72,11 +72,11 @@ self.__precacheManifest = [
     "url": "/amwaj/static/media/slide1.5c324e7a.jpg"
   },
   {
-    "revision": "f57c227bab310fda57b2",
+    "revision": "80758ca29e28580e04f2",
     "url": "/amwaj/static/css/1.c5bcdb5c.chunk.css"
   },
   {
-    "revision": "a8190749cffb0dddd143b29c8581257f",
+    "revision": "501c645367ee65aa451a75b930ac4f06",
     "url": "/amwaj/index.html"
   }
 ];

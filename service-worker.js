@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/amwaj/precache-manifest.b3c5a0bd73bd6fc81a3dd5696982650c.js"
+  "/amwaj/precache-manifest.d22decb2ce24f3959d64db0aa14e50da.js"
 );
 
 workbox.clientsClaim();
