@@ -1,0 +1,14 @@
+.NavLink{
+    padding: 1rem;
+    font-size: 1.1rem;
+    color: black;
+    text-decoration: none;
+}
+.NavLink:hover{
+    text-decoration: none;
+}
+.menu{
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  }
